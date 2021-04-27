@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OS Map</string>
+    <string name="submit">Submit</string>
+    <string name="no_internet_title">No internet</string>
+    <string name="no_internet_msg">Device is not connected to internet. In order to use this App in full, your device needs to be
+        connected to the internet.</string>
+    <string name="pass_error_length_title">Password too short</string>
+    <string name="pass_error_length_msg">Password needs to be at least 8 characters long.</string>
+    <string name="pass_error_first_capital_title">First uppercase letter</string>
+    <string name="pass_error_first_capital_msg">First letter in your password must be uppercase letter.</string>
+    <string name="pass_error_last_capital_title">Last uppercase letter</string>
+    <string name="pass_error_last_capital_msg">Last letter in your password must be uppercase letter.</string>
+
+    <string name="password_error_title">Bad input for password</string>
+    <string name="password_error_msg">Password needs to be at least 8 characters long, first and last
+        letter in your password must be uppercase letter.</string>
+    <string name="fetching_locations_error_title">Error in fetching locations</string>
+    <string name="fetching_locations_error_msg">There was some kind of error (i.e. check your internet connection),
+        while fetching locations.</string>
+</resources>
